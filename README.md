@@ -4,8 +4,8 @@
 ## TODOS
 
 ### App 1: Todo Liste
-- [ ] Projekt initialisieren
-- [ ] Pico CSS hinzufügen
+- [x] Projekt initialisieren
+- [x] Pico CSS hinzufügen
 - [ ] Todos anzeigen
 - [ ] Todos hinzufügen
 - [ ] Todos löschen
