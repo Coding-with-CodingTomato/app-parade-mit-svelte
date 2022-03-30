@@ -6,9 +6,9 @@
 ### App 1: Todo Liste
 - [x] Projekt initialisieren
 - [x] Pico CSS hinzufügen
-- [ ] Todos anzeigen
-- [ ] Todos hinzufügen
-- [ ] Todos löschen
+- [x] Todos anzeigen
+- [x] Todos hinzufügen
+- [x] Todos löschen
 
 ### App 2: Reddit Client
 - [ ] Setup
