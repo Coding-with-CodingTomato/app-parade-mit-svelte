@@ -18,5 +18,5 @@
 
 ### App 3: Messaging App mit Gun.js
 - [x] Setup
-- [ ] Gun JS installieren
-- [ ] Nachrichten schicken / anzeigen
+- [x] Gun JS installieren
+- [x] Nachrichten schicken / anzeigen
