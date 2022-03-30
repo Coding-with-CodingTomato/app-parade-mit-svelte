@@ -11,12 +11,12 @@
 - [x] Todos löschen
 
 ### App 2: Reddit Client
-- [ ] Setup
-- [ ] Feld für Subreddit erstellen
-- [ ] Reddit API abfragen
-- [ ] Posts anzeigen
+- [x] Setup
+- [x] Feld für Subreddit erstellen
+- [x] Reddit API abfragen
+- [x] Posts anzeigen
 
 ### App 3: Messaging App mit Gun.js
-- [ ] Setup
+- [x] Setup
 - [ ] Gun JS installieren
 - [ ] Nachrichten schicken / anzeigen
